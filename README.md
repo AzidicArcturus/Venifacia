@@ -1,2 +1,2 @@
-# Venificia
+# Venifacia
 A starbound mod.
